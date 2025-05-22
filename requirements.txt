@@ -50,6 +50,7 @@ jupyterlab==4.4.2
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.15
+kagglehub==0.3.12
 kiwisolver==1.4.8
 MarkupSafe==3.0.2
 matplotlib==3.10.3
@@ -100,6 +101,7 @@ terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
 tornado==6.5.1
+tqdm==4.67.1
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20250516
 typing_extensions==4.13.2
