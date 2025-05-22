@@ -16,8 +16,8 @@ pip install git+https://github.com/wegar-2/moddata.git@main
 
 Notebooks available in this repo are:
 1. [Simple EDA on `bankchurn` dataset](./notebooks/01_sample_EDA.ipynb)
-2. [ROC Curve for Binary Classifier](./notebooks/02_ROC_Curve_for_binary_classifier.ipynb)
-3. 
+2. [ROC Curve (for Binary Classifier)](./notebooks/02_ROC_Curve_for_binary_classifier.ipynb)
+3. [ROC Curve - reprise](./notebooks/03_ROC_Curve_api_reprise.ipynb)
 
 ### Useful Commands for Managing Jupyter Kernels
 List kernels:
