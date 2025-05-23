@@ -1,3 +1,5 @@
 .venv
 .idea
 notebooks/.ipynb_checkpoints/
+
+sandbox.py

@@ -18,7 +18,9 @@ Notebooks available in this repo are:
 1. [Simple EDA on `bankchurn` dataset](./notebooks/01_sample_EDA.ipynb)
 2. [ROC Curve (for Binary Classifier)](./notebooks/02_ROC_Curve_for_binary_classifier.ipynb)
 3. [ROC Curve - reprise](./notebooks/03_ROC_Curve_api_reprise.ipynb)
-4. [Nested vs Non-Nested Cross-Validation]()
+4. [Nested vs Non-Nested Cross-Validation](./notebooks/04_nested_vs_non_nested_cross_validation.ipynb)
+5. [Principal Components Analysis on Iris Dataset](./notebooks/05_PCA_basic_example.ipynb)
+6. 
 
 ### Useful Commands for Managing Jupyter Kernels
 List kernels:
